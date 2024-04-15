@@ -1,0 +1,9 @@
+{
+    "theme_color": "#fff",
+    "background_color": "hsl(210deg, 46%, 95%)",
+    "scope": "/",
+    "start_url": "/",
+    "name": "Testimonials grid section Solution",
+    "short_name": "Testimonials grid section",
+    "description": "Testimonials grid section solution for frontend mentor"
+}
